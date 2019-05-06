@@ -20,7 +20,8 @@ steps:
 - task: JenkinsQueueJob@1
   inputs:
    jobName: 'HumanaPRPC'
-   serverEndpoint: 'http://ec2-13-127-194-188.ap-south-1.compute.amazonaws.com/prweb/'
+   serverEndpoint: 'http://ec2-13-232-22-182.ap-south-1.compute.amazonaws.com:8081'
+
 
    
     
