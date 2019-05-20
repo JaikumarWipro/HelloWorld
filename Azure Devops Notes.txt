@@ -1,0 +1,11 @@
+https://dev.azure.com/DE20079839/_apis/resources/Containers/3369263?itemPath=drop%2FHelloWorld.zip
+
+wiproadmin
+wiproAdmin@123
+
+
+C:\azagent\A2\_work\r1\a\DemoProject-Maven-CI\drop\HelloWorld.zip
+
+
+Enable port traffic for the WinRM over HTTPS protocol. You will configure this setting for your VM in the Azure portal.
+Configure the VM to enable WinRM by running the supplied PowerShell scripts.
